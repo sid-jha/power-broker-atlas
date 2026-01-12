@@ -1,0 +1,80 @@
+[
+  {
+    "id": "robert_moses",
+    "name": "Robert Moses",
+    "type": "person",
+    "description": "Planner and authority builder who reshaped New York's infrastructure."
+  },
+  {
+    "id": "city_hall",
+    "name": "City Hall",
+    "type": "institution",
+    "description": "Mayors, agencies, and political appointees overseeing city governance."
+  },
+  {
+    "id": "state_parks",
+    "name": "New York State Parks",
+    "type": "institution",
+    "description": "State-level commission controlling park funds and access."
+  },
+  {
+    "id": "triborough_authority",
+    "name": "Triborough Bridge & Tunnel Authority",
+    "type": "institution",
+    "description": "Self-financing authority that consolidated revenue and control."
+  },
+  {
+    "id": "long_island_parks",
+    "name": "Long Island Parks",
+    "type": "institution",
+    "description": "Regional park systems tied to parkway expansion."
+  },
+  {
+    "id": "parks_department",
+    "name": "Parks Department",
+    "type": "institution",
+    "description": "Municipal department executing public works and maintenance."
+  },
+  {
+    "id": "wpa",
+    "name": "WPA",
+    "type": "institution",
+    "description": "Federal work program that financed pools and civic upgrades."
+  },
+  {
+    "id": "federal_highway",
+    "name": "Federal Highway Bureau",
+    "type": "institution",
+    "description": "Federal funding stream for expressway construction."
+  },
+  {
+    "id": "housing_authority",
+    "name": "Housing Authority",
+    "type": "institution",
+    "description": "Agency responsible for public housing and clearance sites."
+  },
+  {
+    "id": "press",
+    "name": "City Press",
+    "type": "institution",
+    "description": "Journalists and editors shaping public narrative."
+  },
+  {
+    "id": "contractors",
+    "name": "Contractors",
+    "type": "institution",
+    "description": "Construction firms benefiting from procurement pipelines."
+  },
+  {
+    "id": "cultural_elites",
+    "name": "Cultural Establishment",
+    "type": "institution",
+    "description": "Foundations and patrons backing prestige projects."
+  },
+  {
+    "id": "bronx_community",
+    "name": "Bronx Community Coalitions",
+    "type": "institution",
+    "description": "Neighborhood leaders and clergy resisting displacement."
+  }
+]

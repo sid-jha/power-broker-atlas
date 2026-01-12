@@ -1,0 +1,184 @@
+[
+  {
+    "id": "state-parks-commission",
+    "title": "State Parks Commission Appointment",
+    "summary": "Moses secures a statewide role that lets him rewrite the rules of park building and funding.",
+    "year_start": 1924,
+    "year_end": 1924,
+    "chapter_refs": [{ "chapter": 1 }, { "chapter": 2 }],
+    "type": "appointment",
+    "methods": ["legal_authority", "institution_building"],
+    "stakeholders": ["robert_moses", "state_parks"],
+    "power_delta": 5,
+    "sources": [
+      { "citation": "The Power Broker, early reform chapters" }
+    ]
+  },
+  {
+    "id": "jones-beach-plan",
+    "title": "Jones Beach and the Parkway Plan",
+    "summary": "A flagship beach and parkway network turns Long Island into a laboratory for regional planning.",
+    "year_start": 1929,
+    "year_end": 1934,
+    "chapter_refs": [{ "chapter": 2 }, { "chapter": 3 }],
+    "type": "build",
+    "methods": ["engineering_as_politics", "budget_control"],
+    "stakeholders": ["robert_moses", "long_island_parks", "contractors"],
+    "power_delta": 6,
+    "quote_snippet": "He built a world that only he could operate.",
+    "sources": [
+      { "citation": "Jones Beach era sections" }
+    ]
+  },
+  {
+    "id": "triborough-authority-charter",
+    "title": "Triborough Authority Charter",
+    "summary": "An independent authority locks in revenue streams and protects Moses from mayoral oversight.",
+    "year_start": 1933,
+    "year_end": 1934,
+    "chapter_refs": [{ "chapter": 4 }],
+    "type": "policy",
+    "methods": ["legal_authority", "bureaucratic_insulation"],
+    "stakeholders": ["robert_moses", "triborough_authority", "city_hall"],
+    "power_delta": 8,
+    "sources": [
+      { "citation": "Triborough Authority chapters" }
+    ]
+  },
+  {
+    "id": "pool-works-program",
+    "title": "WPA Pool Works Program",
+    "summary": "Hundreds of pools and playgrounds appear, binding public works to political loyalty.",
+    "year_start": 1936,
+    "year_end": 1938,
+    "chapter_refs": [{ "chapter": 5 }],
+    "type": "build",
+    "methods": ["patronage_procurement", "public_narrative"],
+    "stakeholders": ["robert_moses", "parks_department", "wpa"],
+    "power_delta": 4,
+    "sources": [
+      { "citation": "Pool era chapters" }
+    ]
+  },
+  {
+    "id": "worlds-fair-1939",
+    "title": "World's Fair Planning",
+    "summary": "The fair becomes a stage for Moses to demonstrate administrative command.",
+    "year_start": 1937,
+    "year_end": 1939,
+    "chapter_refs": [{ "chapter": 4 }, { "chapter": 5 }],
+    "type": "media",
+    "methods": ["agenda_setting", "public_narrative"],
+    "stakeholders": ["robert_moses", "city_hall", "press"],
+    "power_delta": 3,
+    "sources": [
+      { "citation": "World's Fair sections" }
+    ]
+  },
+  {
+    "id": "postwar-expressway-push",
+    "title": "Postwar Expressway Push",
+    "summary": "Federal highway funds accelerate a network of expressways around the city.",
+    "year_start": 1946,
+    "year_end": 1950,
+    "chapter_refs": [{ "chapter": 7 }],
+    "type": "finance",
+    "methods": ["federal_leverage", "budget_control"],
+    "stakeholders": ["robert_moses", "federal_highway", "state_parks"],
+    "power_delta": 5,
+    "sources": [
+      { "citation": "Postwar expressway chapters" }
+    ]
+  },
+  {
+    "id": "public-housing-clearances",
+    "title": "Public Housing Clearances",
+    "summary": "Urban renewal sites are cleared as Moses ties housing to highway alignments.",
+    "year_start": 1948,
+    "year_end": 1955,
+    "chapter_refs": [{ "chapter": 7 }, { "chapter": 8 }],
+    "type": "build",
+    "methods": ["process_bulldozing", "institution_building"],
+    "stakeholders": ["robert_moses", "housing_authority", "city_hall"],
+    "power_delta": 4,
+    "sources": [
+      { "citation": "Housing and renewal chapters" }
+    ]
+  },
+  {
+    "id": "cross-bronx-route-hardens",
+    "title": "Cross-Bronx Route Hardens",
+    "summary": "The route is fixed despite neighborhood warnings about displacement.",
+    "year_start": 1953,
+    "year_end": 1955,
+    "chapter_refs": [{ "chapter": 8 }],
+    "type": "build",
+    "methods": ["engineering_as_politics", "process_bulldozing"],
+    "stakeholders": ["robert_moses", "bronx_community", "city_hall"],
+    "power_delta": 3,
+    "sources": [
+      { "citation": "Cross-Bronx chapters" }
+    ]
+  },
+  {
+    "id": "east-tremont-organizing",
+    "title": "East Tremont Organizing",
+    "summary": "Residents and clergy mount a sustained campaign against the highway alignment.",
+    "year_start": 1954,
+    "year_end": 1957,
+    "chapter_refs": [{ "chapter": 8 }],
+    "type": "opposition",
+    "methods": ["public_narrative", "legal_authority"],
+    "stakeholders": ["bronx_community", "press", "city_hall"],
+    "power_delta": -4,
+    "quote_snippet": "The city heard the voices after the bulldozers arrived.",
+    "sources": [
+      { "citation": "Opposition chapters" }
+    ]
+  },
+  {
+    "id": "lincoln-center-renewal",
+    "title": "Lincoln Center Urban Renewal",
+    "summary": "A cultural complex rises as a prestige project for the coalition.",
+    "year_start": 1959,
+    "year_end": 1962,
+    "chapter_refs": [{ "chapter": 9 }],
+    "type": "build",
+    "methods": ["agenda_setting", "patronage_procurement"],
+    "stakeholders": ["robert_moses", "city_hall", "cultural_elites"],
+    "power_delta": 2,
+    "sources": [
+      { "citation": "Renewal chapters" }
+    ]
+  },
+  {
+    "id": "parks-press-investigations",
+    "title": "Press Investigations of the Parks Empire",
+    "summary": "Investigative reporting questions contracts, tolls, and opaque authorities.",
+    "year_start": 1964,
+    "year_end": 1965,
+    "chapter_refs": [{ "chapter": 10 }],
+    "type": "media",
+    "methods": ["public_narrative", "agenda_setting"],
+    "stakeholders": ["press", "robert_moses", "city_hall"],
+    "power_delta": -5,
+    "sources": [
+      { "citation": "Backlash chapters" }
+    ]
+  },
+  {
+    "id": "mayoral-reforms-1968",
+    "title": "Mayoral Reforms Clip Authority",
+    "summary": "Reform mayors restructure agencies to pull power back into City Hall.",
+    "year_start": 1967,
+    "year_end": 1968,
+    "chapter_refs": [{ "chapter": 10 }, { "chapter": 11 }],
+    "type": "legal",
+    "methods": ["legal_authority", "institution_building"],
+    "stakeholders": ["city_hall", "robert_moses"],
+    "power_delta": -6,
+    "sources": [
+      { "citation": "Reform and decline chapters" }
+    ]
+  }
+]

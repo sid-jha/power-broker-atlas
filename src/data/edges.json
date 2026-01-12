@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": "robert_moses",
+    "target_id": "triborough_authority",
+    "relation": "controls",
+    "year_start": 1934,
+    "year_end": 1968,
+    "chapter_refs": [4, 5, 7, 9],
+    "weight": 5
+  },
+  {
+    "source_id": "robert_moses",
+    "target_id": "city_hall",
+    "relation": "influences",
+    "year_start": 1934,
+    "year_end": 1960,
+    "chapter_refs": [4, 7, 8],
+    "weight": 4
+  },
+  {
+    "source_id": "robert_moses",
+    "target_id": "state_parks",
+    "relation": "controls",
+    "year_start": 1924,
+    "year_end": 1968,
+    "chapter_refs": [1, 2, 3],
+    "weight": 4
+  },
+  {
+    "source_id": "robert_moses",
+    "target_id": "press",
+    "relation": "opponent",
+    "year_start": 1964,
+    "year_end": 1968,
+    "chapter_refs": [10],
+    "weight": 3
+  },
+  {
+    "source_id": "bronx_community",
+    "target_id": "city_hall",
+    "relation": "influences",
+    "year_start": 1954,
+    "year_end": 1958,
+    "chapter_refs": [8],
+    "weight": 3
+  },
+  {
+    "source_id": "robert_moses",
+    "target_id": "federal_highway",
+    "relation": "ally",
+    "year_start": 1946,
+    "year_end": 1955,
+    "chapter_refs": [7],
+    "weight": 4
+  },
+  {
+    "source_id": "robert_moses",
+    "target_id": "housing_authority",
+    "relation": "controls",
+    "year_start": 1948,
+    "year_end": 1962,
+    "chapter_refs": [7, 8, 9],
+    "weight": 4
+  },
+  {
+    "source_id": "robert_moses",
+    "target_id": "contractors",
+    "relation": "ally",
+    "year_start": 1930,
+    "year_end": 1960,
+    "chapter_refs": [3, 5, 7],
+    "weight": 3
+  }
+]

@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "triborough-bridge",
+        "name": "Triborough Bridge",
+        "category": "bridge",
+        "year_start": 1933,
+        "year_end": 1936,
+        "chapter_refs": [4],
+        "status": "completed",
+        "primary_event_id": "triborough-authority-charter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9389, 40.7925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jones-beach",
+        "name": "Jones Beach State Park",
+        "category": "park",
+        "year_start": 1929,
+        "year_end": 1932,
+        "chapter_refs": [2, 3],
+        "status": "completed",
+        "primary_event_id": "jones-beach-plan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-73.57, 40.58],
+            [-73.53, 40.58],
+            [-73.53, 40.6],
+            [-73.57, 40.6],
+            [-73.57, 40.58]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "northern-state-parkway",
+        "name": "Northern State Parkway",
+        "category": "parkway",
+        "year_start": 1928,
+        "year_end": 1934,
+        "chapter_refs": [2, 3],
+        "status": "completed",
+        "primary_event_id": "jones-beach-plan"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.7, 40.75],
+          [-73.55, 40.76],
+          [-73.35, 40.77]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "henry-hudson-parkway",
+        "name": "Henry Hudson Parkway",
+        "category": "parkway",
+        "year_start": 1934,
+        "year_end": 1937,
+        "chapter_refs": [4, 5],
+        "status": "completed",
+        "primary_event_id": "triborough-authority-charter"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.99, 40.78],
+          [-73.98, 40.82],
+          [-73.97, 40.88]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "highbridge-pool",
+        "name": "Highbridge Pool",
+        "category": "pool",
+        "year_start": 1936,
+        "year_end": 1938,
+        "chapter_refs": [5],
+        "status": "completed",
+        "primary_event_id": "pool-works-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.925, 40.842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cross-bronx-expressway",
+        "name": "Cross-Bronx Expressway",
+        "category": "expressway",
+        "year_start": 1948,
+        "year_end": 1963,
+        "chapter_refs": [7, 8],
+        "status": "under_construction",
+        "primary_event_id": "cross-bronx-route-hardens"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.92, 40.85],
+          [-73.89, 40.85],
+          [-73.86, 40.84]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lincoln-center",
+        "name": "Lincoln Center",
+        "category": "housing",
+        "year_start": 1959,
+        "year_end": 1965,
+        "chapter_refs": [9],
+        "status": "under_construction",
+        "primary_event_id": "lincoln-center-renewal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-73.9885, 40.769],
+            [-73.983, 40.769],
+            [-73.983, 40.773],
+            [-73.9885, 40.773],
+            [-73.9885, 40.769]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "east-tremont-contested",
+        "name": "East Tremont Organizing",
+        "category": "contested",
+        "year_start": 1954,
+        "year_end": 1957,
+        "chapter_refs": [8],
+        "status": "proposed",
+        "primary_event_id": "east-tremont-organizing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89, 40.85]
+      }
+    }
+  ]
+}
